@@ -1,63 +1,45 @@
 # 👨‍💻 V MADHAV
-Aspiring Full Stack Developer | MERN Stack | Java Enthusiast | AI & Web Innovator
+Aspiring Full Stack Developer | MERN Stack | Java Enthusiast | AI & Web Innovator <br>
 📍 Tirupati, India
-🌐 [Portfolio](https://madhav-12.vercel.app/) | [rjmadhav1201@gmail.com](rjmadhav1201@gmail.com)
+🌐 [Portfolio](https://madhav-12.vercel.app/) | [rjmadhav1201@gmail.com](rjmadhav1201@gmail.com) <br>
 [LinkedIn](www.linkedin.com/in/madhav-v-3765352a5) | [LeetCode](https://leetcode.com/u/Madhav1201/)
 
-🛠️ Technical Skills
-Frontend: HTML5, CSS3, JavaScript, React.js,Bootstrap
-
-Backend & Databases: Node.js, Express.js, RESTful APIs, MERN Stack, MongoDB, MySQL
-
-Programming: Java, Data Structures & Algorithms in Java, OOPS, Problem Solving
-
-Tools & Platforms: Git, GitHub, VS Code, Render, Netlify, Mongosh, npm, versel, sockets
+## 🛠️ Technical Skills
+Frontend: HTML5, CSS3, JavaScript, React.js,Bootstrap <br>
+Backend & Databases: Node.js, Express.js, RESTful APIs, MERN Stack, MongoDB, MySQL <br>
+Programming: Java, Data Structures & Algorithms in Java, OOPS, Problem Solving <br>
+Tools & Platforms: Git, GitHub, VS Code, Render, Netlify, Mongosh, npm, versel, sockets <br>
 
 ## 🎓 Education
-Mohan Babu University
+Mohan Babu University <br>
+B.Tech in Computer Science and Engineering | CGPA: 8.9 <br>
+Oct 2022 – May 2026 · Tirupati, India <br>
 
-B.Tech in Computer Science and Engineering | CGPA: 8.9
+Narayana Junior college <br>
+Intermediate (MPC) –  88.7% <br>
+Jan 2021 – May 2022 · Chittoor, India <br>
 
-Oct 2022 – May 2026 · Tirupati, India
-
-Narayana Junior college
-
-Intermediate (MPC) –  88.7%
-
-Jan 2021 – May 2022 · Chittoor, India
-
-Comford English High School
-
-Secondary School Certificate (SSC) | 94.8%
-
-Jun 2019 – Mar 2020 · Chittoor, India
+Comford English High School <br>
+Secondary School Certificate (SSC) | 94.8% <br>
+Jun 2019 – Mar 2020 · Chittoor, India <br>
 
 
 ## 🚀 Projects
 
-🌐 Learning Management System for Coding
+🌐 Learning Management System for Coding <br>
+Full-stack LMS platform for interactive coding education with live collaboration <br>
+Features: User and faculty management, real-time collaborative coding, live assessments, role-based access controls <br>
+Stack: React.js, Node.js, Express.js, MongoDB, Socket.io, Judge0 API, Monaco Editor <br>
 
-Full-stack LMS platform for interactive coding education with live collaboration
+🌐 Real-Time Chat Application <br>
+Real-time web-based chat platform supporting group chats, private messaging, and theme customization <br>
+Features: Instant bi-directional messaging, user authentication, privacy controls, responsive UI <br>
+Stack: React.js, Node.js, Express.js, MongoDB, Socket.io <br>
 
-Features: User and faculty management, real-time collaborative coding, live assessments, role-based access controls
-
-Stack: React.js, Node.js, Express.js, MongoDB, Socket.io, Judge0 API, Monaco Editor
-
-🌐 Real-Time Chat Application
-
-Real-time web-based chat platform supporting group chats, private messaging, and theme customization
-
-Features: Instant bi-directional messaging, user authentication, privacy controls, responsive UI
-
-Stack: React.js, Node.js, Express.js, MongoDB, Socket.io
-
-🌐 Hackathon Website
-
-Full-stack event management platform for hackathon organization and participation
-
-Features: Team creation, event registration, live chat, project judging, secure authentication
-
-Stack: React.js, Node.js, Express.js, MongoDB, Socket.io
+🌐 Hackathon Website <br>
+Full-stack event management platform for hackathon organization and participation <br>
+Features: Team creation, event registration, live chat, project judging, secure authentication <br>
+Stack: React.js, Node.js, Express.js, MongoDB, Socket.io <br>
 
 ## 🏅 Achievements
 
