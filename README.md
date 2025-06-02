@@ -1,15 +1,17 @@
 # 👨‍💻 V MADHAV
 Aspiring Full Stack Developer | MERN Stack | Java Enthusiast | AI & Web Innovator
+
 📍 Tirupati, India
+
 🌐 [Portfolio](https://madhav-12.vercel.app/) | [rjmadhav1201@gmail.com](rjmadhav1201@gmail.com)
 [LinkedIn](www.linkedin.com/in/madhav-v-3765352a5) | [LeetCode](https://leetcode.com/u/Madhav1201/)
 
-🛠️ Technical Skills
+# 🛠️ Technical Skills
 Frontend: HTML5, CSS3, JavaScript, React.js,Bootstrap
 Backend & Databases: Node.js, Express.js, RESTful APIs, MERN Stack, MongoDB, MySQL
 Programming: Java, Data Structures & Algorithms in Java, OOPS, Problem Solving
 Tools & Platforms: Git, GitHub, VS Code, Render, Netlify, Mongosh, npm, versel, sockets
-🎓 Education
+# 🎓 Education
 Mohan Babu University
 B.Tech in Computer Science and Engineering | CGPA: 8.9
 Oct 2022 – May 2026 · Tirupati, India
@@ -23,7 +25,7 @@ Secondary School Certificate (SSC) | 94.8%
 Jun 2019 – Mar 2020 · Chittoor, India
 
 
-🚀 Projects
+# 🚀 Projects
 
 🌐 Learning Management System for Coding
 Full-stack LMS platform for interactive coding education with live collaboration
@@ -43,7 +45,7 @@ Full-stack event management platform for hackathon organization and participatio
 Features: Team creation, event registration, live chat, project judging, secure authentication
 Stack: React.js, Node.js, Express.js, MongoDB, Socket.io
 
-🏅 Achievements
+# 🏅 Achievements
 
 🥉 3-Star in Problem Solving & Java – HackerRank
 🏁 Solved 120+ problems on LeetCode
