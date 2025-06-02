@@ -41,6 +41,11 @@ Full-stack event management platform for hackathon organization and participatio
 Features: Team creation, event registration, live chat, project judging, secure authentication <br>
 Stack: React.js, Node.js, Express.js, MongoDB, Socket.io <br>
 
+🌐 Wonderlust <br>
+Full-stack listing management platform to book villa, restaurants, hotels, resorts, etc; <br>
+Features: Listing creation, Listing management, Book Listing, payment page, Reviews <br> 
+Stack: HTML5, CSS, Bootstrap, Node.js, MongoDb, Multer, Cloudinary, Passportjs <br>
+
 ## 🏅 Achievements
 
 🥉 3-Star in Problem Solving & Java – HackerRank
